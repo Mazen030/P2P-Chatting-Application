@@ -1,1 +1,2 @@
+# P2p chatting Application
 In this project, we aim to design and implement a robust communication platform using socket programming with python. The application is inspired by popular platforms like Clubhouse, with a specific focus on text-based communication. Our primary objective is to demonstrate proficiency in network application protocol design, client-server and peer-to-peer architecture, and the proper use of TCP and UDP protocols.
